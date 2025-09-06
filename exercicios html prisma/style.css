@@ -3,17 +3,42 @@
   margin: 0;
   background-color:#f0f0f0 ;
   font-family: Arial, sans-serif;
-  width: 100vw;
+  overflow-x: hidden;
+  width: 80vw;
+  
 }
 h1{
   text-align: center;
+  text-shadow: 2px 1px rgb(77, 68, 68);
+  margin-top: 2rem;
 
 }
 h2{
-  text-align: justify;
+  text-align: initial;
   color: grey;
+  margin-top: 1rem;
+
 }
 h3{
   text-align: justify;
   color: grey;
+  margin-top: 1rem;
+}
+p{
+  text-align: justify;
+}
+dl{
+  margin-top: 2rem;
+}
+dd{
+  text-align: justify;
+}
+a{
+  text-decoration: none;
+}
+footer{
+  width: 100vw;
+  height: 25vh;;
+  color: grey;
+
 }
