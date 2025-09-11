@@ -1,0 +1,38 @@
+body{
+  max-width: 80vw;
+  max-height: 99vh;
+  border: solid 3px grey;
+  margin: auto;
+  padding: auto;
+  text-align: center;
+}
+h1{
+  margin: 1rem;
+  text-align: center;
+}
+img, #telefone{
+  width: 2rem;
+  height: 2rem;
+  vertical-align: middle;
+  margin-right: 6px;
+
+}
+h2{
+  margin: 1rem;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 3rem;
+}
+#telefone1{
+  background-color: grey;
+  width: 2rem;
+  height: 2rem;
+  
+
+}
+input{
+  width: 20vw;
+  background-color: grey;
+  border-radius: 1rem;
+  
+}

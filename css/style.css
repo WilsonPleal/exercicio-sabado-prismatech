@@ -1,40 +1,57 @@
 *{
-  padding: 0;
-  margin: 0;
-  background-color:#f0f0f0 ;
+  padding: auto;
+  margin: auto;
+  background-color:#2b1cf8 ;
   font-family: Arial, sans-serif;
   overflow-x: hidden;
   width: 80vw;
   
 }
+img{
+  width: 20vw;
+  height: 20vh;
+  border-radius: 5px;
+}
 h1{
   text-align: center;
-  text-shadow: 2px 1px rgb(77, 68, 68);
+  text-shadow: 2px 2px rgb(77, 68, 68);
+  font-weight: bolder;
   margin-top: 2rem;
+  font-size: 3.5rem;
+  font-family: 'Times New Roman';
 
 }
 h2{
   text-align: initial;
   color: grey;
   margin-top: 1rem;
+  font-size: 2rem;
 
 }
 h3{
   text-align: justify;
   color: grey;
   margin-top: 1rem;
+  font-size: 1.5rem;
 }
 p{
   text-align: justify;
+  font-size: 1.2rem;
+}
+dt{
+  font-size : 1.5rem;
 }
 dl{
   margin-top: 2rem;
 }
 dd{
   text-align: justify;
+  font-size: 1.2rem;
 }
 a{
   text-decoration: none;
+  color: black;
+  font-weight: bold;
 }
 footer{
   width: 100vw;
